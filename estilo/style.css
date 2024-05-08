@@ -219,12 +219,23 @@ aside > ul{
 }
 
 footer{
-    text-align: center;
-    height: 40px;
+    background-color: var(--cor5);
     color: white;
-    background-color: #1a5c38;
-    padding: 0%;
+    text-align: center;
+    font-size: 0.8em;
+    padding: 5px;
 }
+
 footer > p{
     padding: 8px 4px 8px 4px;
+}
+
+footer a{
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+footer a:hover{
+    text-decoration: underline;
 }
