@@ -65,6 +65,7 @@ nav {
     background-color: var(--cor5);
     padding: 20px 10px;
     box-shadow: 0px 7px 9px rgba(0, 0, 0, 0.381);
+    font-size: 15px;
 }
 
 nav > a{
@@ -82,10 +83,6 @@ nav > a:hover{
     color: var(--cor5);
 }
 
-nav{
-    padding: 10px;
-    font-size: 15px;
-}
 a{
     color: white;
     margin: 10px;
